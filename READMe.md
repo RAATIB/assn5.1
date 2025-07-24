@@ -16,13 +16,11 @@ Our conclusions can lead us to **actionable steps to secure further business eng
 <br />
 
 ## Guided Analysis on Bar Coupon Results:
-- The analysis performed in the project allowed us to make several important conclusions
-- In the guided analysis of bar coupon responses, we came away with several possible hypotheses
-- It appears that individuals who already go to the bar at least once are much more likely to accept bar coupons
-- **Individuals above 25, individuals above 30, and individuals with companions who aren't kids** are all subsets of respondants who appear ***significantly more likely*** to accept bar coupons.
+- Individuals who already **go to the bar at least once** are ***much more likely*** to accept bar coupons
+- **Individuals above 25, individuals above 30, and individuals with companions who aren't kids** are all subsets of respondents who are ***significantly more likely*** to accept bar coupons.
     - These all fit demographics that are intuitively more likely to visit a bar, given they are of age to drink alcohol.
-- Individuals who do not visit the bar frequently (<1 a month) are much less likely to accept bar coupons, reflecting a consistent lack of desire to attend the bar.
-- Individuals who have kids with them in their car are much less likely to accept bar coupons. Customers with kids accompanying are likely unable to attend the bar.
+- Individuals who **do not visit the bar frequently** (<1 a month) are ***much less likely*** to accept bar coupons, reflecting a consistent lack of desire to attend the bar.
+- Individuals who **have kids** with them in their car are ***much less likely*** to accept bar coupons. Customers with kids accompanying are likely unable to attend the bar.
 
 <br />
 
