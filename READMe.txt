@@ -1,9 +1,13 @@
-# Will the Customer Accept the Coupon?
+Will the Customer Accept the Coupon?
 
 Raatib Tanvir
 Jul 24 2025
 Professional Certificate in Machine Learning and Artificial Intelligence
 
+Problem:
+In this project, we utilized data processing tools and visualizations to discern whether surveyed customers accepted certain coupons or not.
+Our analysis provided promising trends that could cue shareholders into the mind of a potential coupon user, demonstrating how factors like age, habits, and income affect the decision of customers on the receiving end of a coupon.
+Conclusions and ensuing suggestions promise actionable steps in curating coupons towards certain populations and users who fit certain criteria, ensuring efficient distribution of coupons and higher rates of usage.
 
 
 Guided Analysis on Bar Coupon Results:
@@ -31,8 +35,8 @@ Results:
     - Factors like interest in coffee, utility of coffee based on age, or free time based on age could have led to these results.
 - The greatest factor in rate of acceptance was frequency of attending coffee houses in a month:
     - Individuals who attended coffee houses frequent (4 or more times a month) were vastly more likely (a 50% difference!) than infrequent (less than 4 a month) attenders to accept the coupon.
-    - While unsurprising, this affect demonstrates the reliability of targeting coupon services to customers who display a tendency to attend a certain venue.
-    - In this case, we can conclude that individuals who already attend coffee houses frequently are very likely to accept coffee house coupons!
+    - This affect demonstrates the reliability of targeting coupon services to customers who display a tendency to attend a certain venue.
+    - In this case, we can conclude that individuals who already attend coffee houses frequently are very likely to accept coffee house coupons. This invaluable information allows owners and managers to curate coupons towards frequent visitors to ensure further business interactions.
 
 
 Further recommendations are included in the notebook. They include:
