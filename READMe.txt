@@ -1,6 +1,9 @@
+# Will the Customer Accept the Coupon?
+
 Raatib Tanvir
 Jul 24 2025
 Professional Certificate in Machine Learning and Artificial Intelligence
+
 
 
 Guided Analysis on Bar Coupon Results:
