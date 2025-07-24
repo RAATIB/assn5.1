@@ -47,10 +47,9 @@ In particular, can we find trends related to income, age, and frequency of coffe
       
 - **Frequency of attending coffee houses**    in a month had a *massive affect* on rate of acceptance!:
     - Individuals who attended coffee houses frequent (4 or more times a month) were vastly more likely (a 50% difference!) than infrequent (less than 4 a month) attenders to accept the coupon.
-    - This affect demonstrates the reliability of targeting coupon services to customers who display a tendency to attend a certain venue.
-    - In this case, we can conclude that individuals who already attend coffee houses frequently are very likely to accept coffee house coupons. This invaluable information allows owners and managers to curate coupons towards frequent visitors to ensure further business interactions.
+    - We can conclude that individuals who already attend coffee houses frequently are very likely to accept coffee house coupons. This invaluable information allows owners and managers to curate coupons towards frequent visitors to ensure further business interactions.
 
 ## Recommendations:
 Further recommendations are included in the notebook. They include:
 - Finding statistical data on the "disposable income" of given income bracket participants in order to hone in on possible trends in coupon acceptance based on income.
-- Survey of factors like "free time" or relative interest or utility of coffee of participants, perhaps in relation to age, as it may allow for further analysis of coupon acceptance rates.
+- Survey of factors like "free time" or relative interest or utility of coffee of participants, perhaps in relation to age, as it may allow for further analysis of coupon acceptance rates to make decisions around.
